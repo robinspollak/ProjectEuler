@@ -17,7 +17,7 @@ something else.  It's recommended to put your working area inside a Dropbox fold
 $ cd ~/Dropbox/Code
 // if cloning with https
 $ git clone https://github.com/Wellthy/wellthy.com.git
-// if cloning with ssh ([set this up for use with 2FA](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/))
+// if cloning with ssh [set this up for use with 2FA](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 $ git clone git@github.com:Wellthy/wellthy.com.git
 $ cd [REPO_DIR]
 $ git checkout integration
