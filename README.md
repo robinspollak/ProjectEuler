@@ -18,6 +18,7 @@ $ cd ~/Dropbox/Code
 // if cloning with https
 $ git clone https://github.com/Wellthy/wellthy.com.git
 // if cloning with ssh [set this up for use with 2FA](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+[I'm an inline-style link](https://www.google.com)
 $ git clone git@github.com:Wellthy/wellthy.com.git
 $ cd [REPO_DIR]
 $ git checkout integration
